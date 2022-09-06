@@ -1,0 +1,63 @@
+.logos{
+  height: 80px;
+}
+
+.title{
+  font-size: 40px;
+  color: #d62828;
+  font-family: 'Droid Serif', serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.blueBackground{
+  background-color: #003049;
+}
+
+.redBackground{
+  background-color: #d62828;
+}
+
+.darkText{
+  color: #003049;
+}
+
+.redText{
+  color: #d62828;
+}
+
+.blueText{
+  color: #003049;
+}
+
+.fontSize{
+  font-size: 50px;
+}
+
+.brightBackground{
+  background-color: #e0fbfc;
+}
+
+.dashboardItems{
+  height: 280px !important;
+}
+
+.dashboardItemsText{
+  text-decoration: none;
+  color: #003049;
+}
+
+.dashboardItemsText :hover{
+  color: #003049;
+}
+
+.introductionContent{
+  font-size: 21px;
+  font-family: 'Droid Serif', serif;
+}
+
+.indentText{
+  text-indent: 5% !important;
+  text-align: justify;
+  text-justify: inter-word;
+}
